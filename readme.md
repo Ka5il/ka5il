@@ -8,12 +8,16 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆
 
-- Изучаю Java
-- Делаю простые сайты на HTML/CSS
+- Learning Java
+- Make noobly sites
 
 ## 𝗧𝗲𝗰𝗸
 
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logoColor=white&labelColor=1793D1&color=1793D1&logo=none)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white&labelColor=ED8B00&color=ED8B00&logo=none)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logoColor=white&labelColor=E34F26&color=E34F26&logo=none)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logoColor=white&labelColor=1572B6&color=1572B6&logo=none)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Maksim's Stats](https://github-readme-stats.vercel.app/api?username=maksim&show_icons=true&theme=radical)
