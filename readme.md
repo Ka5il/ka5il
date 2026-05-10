@@ -13,7 +13,7 @@
 
 ## 𝗧𝗲𝗰𝗸
 
-![Arch](https://img.shields.io/badge/-Arch%20Linux-%231793D1?style=flat-square&logo=arch-linux)
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logoColor=white&labelColor=1793D1&color=1793D1&logo=none)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white&labelColor=ED8B00&color=ED8B00&logo=none)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logoColor=white&labelColor=E34F26&color=E34F26&logo=none)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logoColor=white&labelColor=1572B6&color=1572B6&logo=none)
