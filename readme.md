@@ -1,5 +1,5 @@
-## Maksim
+Maksim
 
-**Среда:** Arch Linux, VSCodium, Inteliji idea
-**Бэкенд:** Java, Kotlin
-**Фронтенд:** HTML, CSS
+**Среда:** Arch Linux · VSCodium · IntelliJ IDEA  
+**Бэкенд:** Java · Kotlin  
+**Фронтенд:** HTML · CSS
