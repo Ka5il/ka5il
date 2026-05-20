@@ -4,7 +4,7 @@
 
 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒕𝒐 𝒄𝒐𝒅𝒆.
 
-🏗 𝑨𝒓𝒄𝒉 𝑳𝒊𝒏𝒖𝒙 | ☕️ 𝑱𝒂𝒗𝒂 | 🎨 𝑯𝑻𝑴𝑳/𝑪𝑺𝑺
+🏗 𝑨𝒓𝒄𝒉 𝑳𝒊𝒏𝒖𝒙 | ☕️ 𝑱𝒂𝒗𝒂
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆
 
@@ -15,5 +15,3 @@
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
