@@ -1,10 +1,5 @@
-# 𝙈𝙖𝙠𝙨𝙞𝙢
 
 [![](https://img.shields.io/badge/-@Ka5il-%23181717?style=flat-square&logo=github)](https://github.com/Ka5il)
-
-𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒕𝒐 𝒄𝒐𝒅𝒆.
-
-🏗 𝑨𝒓𝒄𝒉 𝑳𝒊𝒏𝒖𝒙 | ☕️ 𝑱𝒂𝒗𝒂
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆
 
