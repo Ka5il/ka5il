@@ -3,10 +3,5 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆
 
-- Learning Java
+- Learning Rust
 - Make noobly sites
-
-## 𝗧𝗲𝗰𝗸
-
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
